@@ -1,0 +1,11 @@
+{
+    "short_name": "Chat App",
+    "name": "Chat App PWA",
+    "icons": [
+        {
+            "src": "/images/logo.jpg",
+            "type": "image/jpg  ",
+            "sizes": "1024x1024"
+        }
+    ]
+}
